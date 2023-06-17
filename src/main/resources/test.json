@@ -1,0 +1,8 @@
+{
+  "type": "loan",
+  "userId": 11,
+  "symbol": "ABC",
+  "shares": 12,
+  "price": 350,
+  "timestamp" : 123456789
+}
